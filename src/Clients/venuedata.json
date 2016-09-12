@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Miranda Bad 0 +1 ",
+    "city": "Rotterdam",
+    "activity": "swimming",
+    "country": "netherlands",
+    "address": "some street #123",
+    "notes": "You can swim outside here",
+    "picture": "http://example.com/images/awesome_image.jpg"
+  },
+  {
+    "name": "Miranda Bad 2",
+    "city": "Berlin",
+    "activity": "swimming",
+    "country": "netherlands",
+    "address": "some street #123",
+    "notes": "You can swim outside here",
+    "picture": "http://example.com/images/awesome_image.jpg"
+  },
+  {
+    "name": "Miranda Bad 3",
+    "city": "London",
+    "activity": "swimming",
+    "country": "netherlands",
+    "address": "some street #123",
+    "notes": "You can swim outside here",
+    "picture": "http://example.com/images/awesome_image.jpg"
+  },
+  {
+    "name": "Miranda Bad 4",
+    "city": "Amsterdam",
+    "activity": "picnic",
+    "country": "netherlands",
+    "address": "some street #123",
+    "notes": "You can swim outside here",
+    "picture": "http://example.com/images/awesome_image.jpg"
+  },
+  {
+    "name": "Miranda Bad 5",
+    "city": "London",
+    "activity": "picnic",
+    "country": "netherlands",
+    "address": "some street #123",
+    "notes": "You can swim outside here",
+    "picture": "http://example.com/images/awesome_image.jpg"
+  }
+]
