@@ -1,7 +1,7 @@
 <?php
 
 
-namespace leisureManager\Entity;
+namespace CityActivity\Entity;
 
 
 class Venue

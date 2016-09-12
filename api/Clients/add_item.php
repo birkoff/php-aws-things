@@ -1,12 +1,12 @@
 <?php
 
-namespace leisureManager;
+namespace CityActivity;
 
 include "DynamoDb.php";
 
 date_default_timezone_set('UTC');
 
-use leisureManager\Clients\DynamoDb;
+use CityActivity\Clients\DynamoDb;
 
 $tableName = 'Venues';
 $venues = json_decode(file_get_contents('venuedata.json'), true);

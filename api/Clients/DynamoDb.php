@@ -1,6 +1,6 @@
 <?php
 
-namespace leisureManager\Clients;
+namespace CityActivity\Clients;
 
 require '../../vendor/autoload.php';
 

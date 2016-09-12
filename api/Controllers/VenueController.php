@@ -1,13 +1,9 @@
 <?php
 
 
-namespace leisureManager\controllers;
+namespace CityActivity\Controllers;
 
-use leisureManager\Clients\DynamoDb;
-use leisureManager\Entity\Leisure;
-use leisureManager\Entity\Venue;
-use leisureManager\Models\LeisureModel;
-use leisureManager\Models\VenueModel;
+use CityActivity\Clients\DynamoDb;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 
